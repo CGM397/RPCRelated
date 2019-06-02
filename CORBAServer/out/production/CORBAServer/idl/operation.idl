@@ -1,5 +1,0 @@
-module OperationModule{
-    interface Operation{
-        long add(in long a, in long b);
-    };
-};
