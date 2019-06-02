@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/OperationModule/Operation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OperationModule/OperationHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OperationModule/OperationHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OperationModule/OperationOperations.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OperationModule/OperationPOA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OperationModule/_OperationStub.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

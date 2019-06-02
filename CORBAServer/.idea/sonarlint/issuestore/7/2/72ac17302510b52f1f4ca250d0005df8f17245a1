@@ -1,0 +1,17 @@
+
+Rsquid:S1854&";Remove this useless assignment to local variable "$result".(ÀÖí³
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÒ¼
+gsquid:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(Æ¯”ƒúÿÿÿÿ
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+7squid:S2129"!Remove this "Integer" constructor(ó£­i
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¿í‰
+osquid:S3008"SRename this field "_methods" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÉñ¯øÿÿÿÿ
+=squid:S1905&"&Remove this unnecessary cast to "int".(ÀÖí³
+rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µÉñ¯øÿÿÿÿ
+isquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖí³
+Gsquid:S1905:"+Remove this unnecessary cast to "String[]".(È«çéúÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ã½¨
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ€È÷ûÿÿÿÿ
+gsquid:S30085"PRename this field "__ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŸˆ™
+rsquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨…¢ƒøÿÿÿÿ8åíÚ¹±-
+rsquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¤‰×øÿÿÿÿ8åíÚ¹±-
