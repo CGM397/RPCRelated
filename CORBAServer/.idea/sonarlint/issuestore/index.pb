@@ -17,3 +17,5 @@ D
 src/server/Main.java,5\5\556478fe4160e26bb58309ed4f6a39a8d0b9e976
 U
 %src/OperationModule/OperationPOA.java,7\2\72ac17302510b52f1f4ca250d0005df8f17245a1
+Y
+)src/idl/GroupPurchaseManagementSystem.idl,d\c\dce2ee4dc8467c100eaa47ff195562ece728904f

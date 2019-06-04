@@ -1,0 +1,20 @@
+//example of struct
+module GroupPurchaseManagementSystemModule{
+    typedef struct GroupPurchaseItem {
+        string id;
+        string seller;
+        string productName;
+        string introduction;
+        double price;
+        long limit;
+    }ITEM;
+    typedef sequence<ITEM>items;
+    interface GroupPurchaseManagementSystem{
+        boolean confirmPurchase(in string sellerSecretKey, in string confirm);
+        items listGroupPurchase();
+        boolean publishGroupPurchaseItem(in string sellerSecretKey, in string
+                    productName, in string introduction, in double price, in long limit);
+        boolean submitPurchase(in string itemId, in string bankAccount, in string
+                    password, in string phone);
+    };
+};
