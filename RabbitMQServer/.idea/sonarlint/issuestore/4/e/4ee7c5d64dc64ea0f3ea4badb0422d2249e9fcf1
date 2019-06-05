@@ -1,4 +1,7 @@
 
+Msquid:S00108F")Either remove or fill this block of code.(Ë¡ÁÊúÿÿÿÿ8Ã•ä˜²-
 Xsquid:S1141/"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ã•ä˜²-
 Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ã•ä˜²-
-Msquid:S00108F")Either remove or fill this block of code.(Ë¡ÁÊúÿÿÿÿ8Ã•ä˜²-
+gsquid:CallToDeprecatedMethod!"8Remove this use of "QueueingConsumer"; it is deprecated.(‰ûÖÜ8É§™«²-
+gsquid:CallToDeprecatedMethod!"8Remove this use of "QueueingConsumer"; it is deprecated.(‰ûÖÜ8É§™«²-
+gsquid:CallToDeprecatedMethod'"8Remove this use of "QueueingConsumer"; it is deprecated.(õƒ®û8É§™«²-
